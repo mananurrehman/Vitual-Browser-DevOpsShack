@@ -3,7 +3,7 @@
 set -e
 
 BRANCH=${1:-main}
-REPO_URL="git@github.com:mananurrehman/Vitual-Browser-DevOpsShack.git"
+REPO_URL="https://github.com/mananurrehman/Vitual-Browser-DevOpsShack.git"
 APP_DIR="$HOME/VB-DevOpsShack"
 
 echo "-----------------------------------"
